@@ -1,0 +1,44 @@
+.CardNew{
+    display: flex;
+    justify-content: center;
+    color: white;
+    text-align: left;
+    align-items: center;
+    margin-top: 150px;
+}
+
+.CardNew img{
+    margin-right: 80px;
+    border-radius: 10px;
+    width: 410px;
+    height: 330px;
+}
+
+.new-release{
+    color: #FF13F6;
+    font-weight: 500;
+    font-size: 24px;
+    margin-bottom: 5px;
+}
+
+.title-tips-new{
+    font-weight: 500;
+    font-size: 28px;
+    width: 380px;
+    margin-bottom: 5px;
+}
+
+.kategori-tips-new{
+    margin-bottom: 10px;
+    font-size: 14px;
+}
+
+.desc-tips-new{
+    margin-bottom: 20px;
+    font-size: 18px;
+}
+
+.text{
+    width: 90%;
+}
+

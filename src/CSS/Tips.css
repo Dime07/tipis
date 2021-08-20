@@ -1,0 +1,11 @@
+.Tips{
+    margin: 0px 40px;
+}
+
+.big-tips{
+    font-weight: bold;
+    font-size: 120px;
+    color: white;
+    text-align: left;
+    margin-top: 20px;
+}

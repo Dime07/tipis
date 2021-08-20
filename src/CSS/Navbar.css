@@ -1,0 +1,33 @@
+.Navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items:center;
+    padding: 0 40px 0 40px;
+    background-color: white;
+}
+
+.logo-nav{
+    font-size: 24px;
+    font-weight: 600;
+    font-style: italic;
+    width: 80px;
+}
+
+.menu{
+    display: flex;
+}
+
+.menu a{
+    margin: 20px 40px 20px 40px;
+    font-size: 14px;
+    font-weight: 500;
+    text-decoration: none;
+    color: #050118;
+}
+
+.socmed {
+    display: flex;
+    justify-content: space-between;
+    width: 80px;
+}
+
